@@ -72,7 +72,7 @@ ScrollReveal().reveal('.home_img,.home_data,.about_data,.about_img,.recently_dat
   distance: '60px',
   duration: 2500,
   delay: 400,
-  // reset: true
+  reset: true
 });
 
 ScrollReveal().reveal('.home_data', {
